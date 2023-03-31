@@ -35,6 +35,6 @@ List all critical vulnerabilities, in the following format, for all projects in 
 Ignore a specific Issue for a specific Project based on the Issue ID.   
 `python3 -snyker.py -ii project_id issue_id`
 
-#### mii :   
+#### -mii :   
 Ignore a specific issue for multiple projects, which are listed one per line in a file.    
 `python3 -snyker.py -mii issue_id file_name`
