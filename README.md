@@ -1,4 +1,4 @@
-<img align="center" alt="PNG" src="https://github.com/madalin-dogaru/madalin-dogaru/blob/master/snyker.png?raw=true" width="1200" height="340" />
+<img align="center" alt="PNG" src="https://github.com/madalin-dogaru/madalin-dogaru/blob/master/snyker.png?raw=true" width="1000" height="350" />
 
 
 # snyker
