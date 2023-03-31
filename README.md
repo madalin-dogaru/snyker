@@ -1,3 +1,6 @@
+<img align="center" alt="PNG" src="https://github.com/madalin-dogaru/madalin-dogaru/blob/master/snyk3r.png?raw=true" width="1200" height="350" />
+
+
 # snyker
 A Snyk tool that uses its API to automate various jobs like puling a list of issues, ignoring them, corelating them with projects and more. The project is still in its infancy and I'm building it based on my needs but feel free to request new functionality.   
 
