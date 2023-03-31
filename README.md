@@ -28,7 +28,7 @@ List all Project IDs and their paths/names for a specific organization.
 `python3 -snyker.py -lpid`
 
 #### -lpcve :   
-List all critical vulnerabilities, in the following format, for all projects in an organization: `CVE:Critical_Severities:Issue_ID`.
+List all critical vulnerabilities, in the following format, for all projects in an organization:CVE:Critical_Severities:Issue_ID.
 `python3 -snyker.py -lpcve `
 
 #### -ii :   
