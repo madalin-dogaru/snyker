@@ -2,8 +2,8 @@
 Title: snyker
 Author: Mădălin Dogaru
 Discord: The Wallachian#4651
-Date: yyyy-mm-dd
-Version: x.y.z
+Date: 31-03-2023
+Version: v0.1
 License: MIT
 Description: Snyker interacts with Snyk's API to manage and output data in various ways.
 """
