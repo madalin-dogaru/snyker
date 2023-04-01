@@ -4,8 +4,8 @@ Author: Mădălin Dogaru
 Discord: The Wallachian#4651
 Date: yyyy-mm-dd
 Version: x.y.z
-License: Appropriate license (e.g., MIT, GPL, Apache, etc.)
-Description: A brief description of what your script does and its purpose.
+License: MIT
+Description: Snyker interacts with Snyk's API to manage and output data in various ways.
 """
 
 import argparse
