@@ -1,3 +1,13 @@
+"""
+Title: snyker
+Author: Mădălin Dogaru
+Discord: The Wallachian#4651
+Date: yyyy-mm-dd
+Version: x.y.z
+License: Appropriate license (e.g., MIT, GPL, Apache, etc.)
+Description: A brief description of what your script does and its purpose.
+"""
+
 import argparse
 from utils import read_project_ids_from_file
 from snyk_operations import list_project_ids, list_critical_vulnerabilities, ignore_issue, ignore_issue_in_multiple_projects
